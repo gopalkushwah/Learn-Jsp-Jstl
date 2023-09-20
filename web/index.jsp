@@ -16,6 +16,7 @@
         <p>JSTL (JavaServer Pages Standard Tag Library) is a standard library of custom tags and functions for JSP (JavaServer Pages) that simplifies many common tasks in web development. It allows you to embed Java-like code directly into your JSP pages using custom tags instead of writing Java code within scriptlet tags (<% %>).</p>
         <ul>
             <li><a href="coretags.jsp">Core tags</a></li>
+            <li><a href="functiontags.jsp">Function tags</a></li>
         </ul>
     </body>
 </html>
