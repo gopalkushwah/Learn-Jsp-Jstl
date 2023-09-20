@@ -17,6 +17,7 @@
         <ul>
             <li><a href="coretags.jsp">Core tags</a></li>
             <li><a href="functiontags.jsp">Function tags</a></li>
+            <li><a href="sqltags.jsp">Sql tags</a></li>
         </ul>
     </body>
 </html>
